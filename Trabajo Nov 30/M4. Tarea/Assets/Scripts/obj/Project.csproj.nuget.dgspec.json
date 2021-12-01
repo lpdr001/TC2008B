@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/soteroosuna/Developer/Schoolwork/Multiagentes/M4. Tarea/Assets/Scripts/Project.csproj": {}
+  },
+  "projects": {
+    "/Users/soteroosuna/Developer/Schoolwork/Multiagentes/M4. Tarea/Assets/Scripts/Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/soteroosuna/Developer/Schoolwork/Multiagentes/M4. Tarea/Assets/Scripts/Project.csproj",
+        "projectName": "Project",
+        "projectPath": "/Users/soteroosuna/Developer/Schoolwork/Multiagentes/M4. Tarea/Assets/Scripts/Project.csproj",
+        "packagesPath": "/Users/soteroosuna/.nuget/packages/",
+        "outputPath": "/Users/soteroosuna/Developer/Schoolwork/Multiagentes/M4. Tarea/Assets/Scripts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/soteroosuna/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

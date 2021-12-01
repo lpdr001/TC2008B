@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4yH6TyGE/BfTbBOgkVt3r/J+oEWi63cF5B/wSWu0XNKCsue7mfXf302o5LKIvb/BZSKut4xIb0sRo0orHv1F6Q==",
+  "success": true,
+  "projectFilePath": "/Users/soteroosuna/Developer/Schoolwork/Multiagentes/M4. Tarea/Assets/Scripts/Project.csproj",
+  "expectedPackageFiles": [
+    "/Users/soteroosuna/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
